@@ -209,9 +209,9 @@ export const FAQData: FAQType[] = [
 ];
 
 export const links: NavType[] = [
-  { label: "R&I", link: "/R&I" },
-  { label: "Blog", link: "/Blog" },
-  { label: "Contact", link: "/Contact" },
+  { label: "R&I", link: "R&I" },
+  { label: "Blog", link: "Blog" },
+  { label: "Contact", link: "Contact" },
 ];
 
 export const languages: LanguageType[] = [
